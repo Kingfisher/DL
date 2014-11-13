@@ -29,6 +29,15 @@ The intention of this project is to create a blog where anybody can post. A post
 https://github.com/Citronnade/python-attack-of-the-pythons
 ------
 
+API Project
+------
+David Liang, Coby Goldberg
+Description
+------
+Uses the Ebay and Google News API to let users look up items from a certain year, price range, and by name. They can also check on news regarding their currency. 
+https://github.com/CobyGoldbergs/ForeignPurchaser
+------
+
 
 Mini Projects
 ------
