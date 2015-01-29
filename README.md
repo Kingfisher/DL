@@ -10,6 +10,12 @@ Period 6
 Main Projects
 ------
 
+Final Project
+------
+David Liang, Tyler Wang, Chris Kim, Brian Guo
+Description
+A Niche for NYC high schools. You can create an account, log in, then search for NYC high schools. Upon choosing from a list of links from the results, you can go to a school's page, and see its programs, principal, interest area, overall grade, district, environment grade, total AP exams taken, critical reading average, mathematical average, writing average, and average rating on the site. You may also give the school a rating, which can only be done once. You can also change your profile details. There is a contact page, an about page, a link to the repository in both the footer and the side bar.  
+https://github.com/softdev-7-leaf/leaf
 
 Query Project
 ------
